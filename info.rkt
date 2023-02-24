@@ -7,3 +7,4 @@
 (define scribblings '(("scribblings/racr.scrbl" ())))
 (define pkg-desc "A Racket port of the RACR library for reference attribute grammar controlled rewriting.")
 (define pkg-authors '(eeide))
+(define license 'MIT)
